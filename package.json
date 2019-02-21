@@ -30,6 +30,6 @@
     "@types/react": "^16.7.17",
     "@types/react-dom": "^16.0.11",
     "@types/uuid": "^3.4.4",
-    "typescript": "^3.2.2"
+    "typescript": "^3.3.3333"
   }
 }
